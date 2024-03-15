@@ -1,0 +1,5 @@
+Biryani: 10
+Pulao: 4
+Karahi: 10
+Nihari: 10
+Haleem: 10
